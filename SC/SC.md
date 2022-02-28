@@ -269,6 +269,9 @@ P.P.P.S. Советы для профессионалов, которые «вс
 Сайты университетов:
 
 Stanford: cs.stanford.edu
+
 MIT: www.eecs.mit.edu
+
 UC Berkeley: www.cs.berkeley.edu
+
 UC San Diego: cs.ucsd.edu (моя альма-матерь, ну еще не #4, но ползет вверх каждый год!)
