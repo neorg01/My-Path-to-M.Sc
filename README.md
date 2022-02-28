@@ -1,3 +1,28 @@
 # My-Path-to-M.Sc
 
-C++
+guide is url:
+********************
+My skills:
+Math{
+
+}
+
+My projects:
+
+C++{
+
+}
+
+Python{
+
+}
+
+Scala{
+
+}
+SQL{
+
+}
+Assembly{
+
+}
