@@ -5,11 +5,11 @@ I'm bad at English as well as math. First, tighten up the math. (simultaneously 
 
 (from beginner to master in SC) 
 
-[Step 1](https://habr.com/ru/post/251747/)
+- [Big Step 1](https://habr.com/ru/post/251747/)
 
 (from beginner to master in DeFi)
 
-[Step 2](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+- [Big Step 2](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 
 ********************
 # My skills:
