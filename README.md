@@ -21,14 +21,38 @@ I'm bad at English as well as math. First, tighten up the math. (simultaneously 
   
 </details>
 
+<details>
+<summary>C++</summary>
+  
+  - OPP
+  - Array
+  
+</details>
+
+<details>
+<summary>Java</summary>
+  
+  - OPP
+  - Array
+  
+</details>
+
 # My projects:
 
 <details>
 <summary>C++</summary>
   
-  - [empty temporarily LOL]()
+  - [Arrays](https://github.com/neorg01/Arrays)
   
 </details>
+
+<details>
+<summary>Java</summary>
+  
+  - [Arrays](https://github.com/neorg01/Arrays)
+  
+</details>
+
 
 <details>
 <summary>Scala</summary>
